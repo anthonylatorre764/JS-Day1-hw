@@ -53,5 +53,16 @@ console.log(arr)
 
 
 
-// link to problem
-// link to my solution
+// codewars problem #1 - "Array plus array"
+// https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/javascript
+
+// my solution
+// https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/solutions/javascript?filter=me&sort=best_practice&invalids=false
+
+
+
+// codewars problem #2 - "Jenny's secret message"
+// https://www.codewars.com/kata/55225023e1be1ec8bc000390
+
+// my solution
+// https://www.codewars.com/users/soccer_fiend_12/completed_solutions
